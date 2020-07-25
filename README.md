@@ -1,1 +1,8 @@
-# pc
+## pc 353$
+
+90$ board [ASRock H310CM-ITX](https://www.bhphotovideo.com/c/product/1576940-REG/asrock_h310cm_itx_ac_h310cm_itx_ac_intel_lan.html)  
+60$ cpu [Intel Pentium G5400 3.7 GHz Dual-Core LGA 1151](https://www.bhphotovideo.com/c/product/1393125-REG/intel_bx80684g5400_pentium_g5400_3_7_ghz.html)  
+33$ ram [Crucial 8GB Desktop DDR4 2666 MHz UDIMM ](https://www.bhphotovideo.com/c/product/1576439-REG/crucial_ct8g4dfra266_8gb_ddr4_2666_mt_s.html)  
+40$ cpu fan [Noctua NH-L9i](https://www.amazon.com/Noctua-NH-L9i-Premium-Low-profile-LGA115x/dp/B009VCAJ7W/ref=sxts_sxwds-bia-wc-drs1_0?crid=IY3SBCQRDXZC&cv_ct_cx=noctua+nh-l9i&dchild=1&keywords=noctua+nh-l9i&pd_rd_i=B009VCAJ7W&pd_rd_r=462e92b7-e28e-4201-bda9-1bbad9e72dac&pd_rd_w=4gn2D&pd_rd_wg=NzU35&pf_rd_p=055f7364-94db-4b93-80d6-346300592c66&pf_rd_r=HS1E3YF483HBJGEV8XFK&psc=1&qid=1595353575&sprefix=noctua+nh%2Caps%2C264&sr=1-1-f7123c3d-6c2e-4dbe-9d7a-6185fb77bc58)  
+100$ case and internal power unit and external ac adapter (120W) [MITXPC MX500-USB3](https://www.amazon.com/MITXPC-MX500-USB3-Industrial-Fanless-Mini-ITX/dp/B076QK3S6Y/ref=sr_1_3?crid=RA32W6JZF9HT&dchild=1&keywords=mitxpc+mx500&qid=1595353093&sprefix=mitxpc+%2Caps%2C279&sr=8-3)  
+30$ storage [Transcend 120GB 820S M.2 SATA III](https://www.bhphotovideo.com/c/product/1321811-REG/transcend_ts120gmts820_120gb_mts820_sata_3.html)  
