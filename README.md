@@ -1,7 +1,7 @@
 ## pc $392
 
 $120 [ASRock H470M-ITX/AC LGA 1200 Intel H470](https://www.newegg.com/p/N82E16813157930)  
-$37 [8gb G.SKILL Aegis 8GB 288-Pin DDR4 SDRAM DDR4 3000 F4-3000C16S-8GISB](https://www.newegg.com/g-skill-8gb-288-pin-ddr4-sdram/p/N82E16820232722?Item=N82E16820232722)  
+$37 [8gb G.SKILL Aegis 8GB 288-Pin DDR4 SDRAM DDR4 2666 (PC4 21300) Desktop Memory Model F4-2666C19S-8GISB](https://www.newegg.com/g-skill-8gb-288-pin-ddr4-sdram/p/N82E16820232722)  
 $65 [Intel Pentium Gold G6400](https://www.amazon.com/gp/product/B086MHSH2Z/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)  
 $40 [Samsung 860 EVO SSD 250GB - M.2](https://www.amazon.com/gp/product/B07864V6CK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
 $40 [noctua nh-l9i](https://www.amazon.com/gp/product/B009VCAJ7W/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
